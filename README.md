@@ -1,6 +1,7 @@
 # Linkedin Clone
 
 Demo URL: [https://linkedin-clone-using-react.web.app/](Linkedin Clone)
+[http://localhost:3000](http://localhost:3000)
 
 <!-- ## Available Scripts
 
