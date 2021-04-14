@@ -2,6 +2,9 @@
 
 Demo URL: [Linkedin Clone](https://linkedin-clone-using-react.web.app/)
 
+![alt text](https://github.com/PakkiPavan/Linkedin-Clone-using-React/blob/main/Demo/Linkedin-1.JPG?raw=true)
+![alt text](https://github.com/PakkiPavan/Linkedin-Clone-using-React/blob/main/Demo/Linkedin-2.JPG?raw=true)
+
 <!-- ## Available Scripts
 
 In the project directory, you can run:
