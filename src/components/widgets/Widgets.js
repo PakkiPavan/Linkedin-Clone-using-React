@@ -24,11 +24,11 @@ const Widgets = () => {
                 <h2>Linkedin News</h2>
                 <InfoIcon />
             </div>
-            {newsArticle("PAPA react is back", "Top news")}
-            {newsArticle("PAPA react is back", "Top news")}
-            {newsArticle("PAPA react is back", "Top news")}
-            {newsArticle("PAPA react is back", "Top news")}
-            {newsArticle("PAPA react is back", "Top news")}
+            {newsArticle("React JS vs Angular JS", "Top news")}
+            {newsArticle("Who will win in Google Code Jam 2021", "Code Jam news")}
+            {newsArticle("Who will win in Tamil Nadu elections?", "Trending")}
+            {newsArticle("Who will become red coder in Codeforces?", "Codeforces news")}
+            {newsArticle("Who will become 6 star in Codechef", "Top Codechef news")}
         </div>
     )
 }
